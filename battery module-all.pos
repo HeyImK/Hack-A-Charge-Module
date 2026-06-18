@@ -1,0 +1,30 @@
+### Footprint positions - created on 2026-06-18T12:46:22 ###
+### Printed by KiCad version 10.0.3-10.0.3~ubuntu24.04.1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val        Package                                       PosX       PosY       Rot  Side
+C1        0.1_uF     C_0603_1608Metric                         117.1194   -70.3208  -90.0000  top
+C2        22uF       C_0603_1608Metric                         115.1128   -54.0890  -90.0000  top
+C3        10uF       C_0603_1608Metric                         118.6942   -70.2954  -90.0000  top
+C4        10uF       C_0603_1608Metric                         120.7262   -64.0972   90.0000  top
+C5        10uf       C_0603_1608Metric                         110.1598   -54.1144  -90.0000  top
+C6        0.1_uF     C_0603_1608Metric                         116.6622   -54.0890  -90.0000  top
+D1        25%_LED    LED_0805_2012Metric                       104.2693   -57.8104    0.0000  top
+D2        CHRG_LED   LED_0805_2012Metric                       104.0915   -54.5846    0.0000  top
+D3        75%_LED    LED_0805_2012Metric                       104.2693   -61.1632    0.0000  top
+H1        Mount      MountingHole_2.2mm_M2_Pad                 126.7968   -76.0222    0.0000  top
+H2        Mount      MountingHole_2.2mm_M2_Pad                  99.9490   -49.0728    0.0000  top
+H3        Mount      MountingHole_2.2mm_M2_Pad                 100.0110   -76.0220    0.0000  top
+H4        Mount      MountingHole_2.2mm_M2_Pad                 127.1382   -49.0728    0.0000  top
+INPUT     USB_C_16P  USB_C_Receptacle_HRO_TYPE-C-31-M-12       113.7412   -77.4204    0.0000  top
+J2        BATT_CONN  JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal   127.3556   -64.8396   90.0000  top
+J3        5V_OUT     JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal   127.4710   -57.4388   90.0000  top
+L1        1uH        L_Taiyo-Yuden_NR-60xx                     120.6500   -59.0936  -90.0000  top
+R1        5.1k       R_0603_1608Metric                         112.2680   -70.3206   90.0000  top
+R2        5.1k       R_0603_1608Metric                         115.4430   -70.3206   90.0000  top
+R3        1k         R_0603_1608Metric                         107.7346   -57.7850  180.0000  top
+R4        1k         R_0603_1608Metric                         107.4806   -54.6354  180.0000  top
+R5        1k         R_0603_1608Metric                         107.7214   -60.9854  180.0000  top
+SW1       ACTV_BTN   SW_SPST_EVQP2_ShortPushTravel_H2.1mm      106.1588   -68.2752   90.0000  top
+U1        IP5306     SOP127P600X165-9N                         113.1436   -58.3692    0.0000  top
+## End
