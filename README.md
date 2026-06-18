@@ -1,4 +1,4 @@
-# IP5306 Power Bank Board
+# IP5306 Charging and Power Board
 
 A compact lithium battery charger and 5V boost module built around the IP5306 chip. It handles charging a single-cell lithium battery via USB-C and boosting the battery voltage up to a stable 5V output for external devices.
 
