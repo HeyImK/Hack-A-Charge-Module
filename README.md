@@ -1,4 +1,4 @@
-# IP5306 Charging and Power Board
+# Hack-A-Charge IP5306 Charging and Power Board
 
 A compact lithium battery charger and 5V boost module built around the IP5306 chip. It handles charging a single-cell lithium battery via USB-C and boosting the battery voltage up to a stable 5V output for external devices.
 
@@ -19,11 +19,9 @@ A compact lithium battery charger and 5V boost module built around the IP5306 ch
 ## Core Components Used
 
 * **Power Management IC:** Injoinic IP5306 
-* **Power Inductor:** Sunlord SWPA6045S1R0NT (1.0µH, 5.6A saturation current, 6x6x4.5mm SMD package)
-* **Input/Output Capacitors:** Murata 10µF 25V X5R 0603 Ceramic Caps (used on input, battery, and in parallel on the 5V output rail)
-* **Spike Filter:** Murata 0.1µF 50V X7R 0603 Ceramic Cap (placed on the USB input)
-* **Battery Connector:** Xunpu WAFER-XH2.54-2PWZ right-angle 2-pin socket
-* **Indicators:** Everlight 0805 LEDs of different colours with 1kΩ current-limiting resistors
+* **Power Inductor:** SWPA6045S1R0NT (1.0µH, 5.6A saturation current, 6x6x4.5mm SMD package)
+* **Spike Filter:** Murata 0.1µF 50V X7R 0603 Ceramic Cap.
+* **Indicators:** 0805 LEDs of different colours with 1kΩ resistors
 
 | Circuit Schematic Design |
 | :---: |
